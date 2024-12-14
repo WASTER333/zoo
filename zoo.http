@@ -1,0 +1,7 @@
+### GET request to example server
+
+//GET http://localhost:3000/animals
+
+//GET http://localhost:3000/animals/1
+
+###
